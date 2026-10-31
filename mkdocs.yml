@@ -11,7 +11,7 @@ theme:
   name: materialx
   logo: assets/cyberclub.png
   favicon: assets/cyberclub.png
-
+  
   features:
     - content.code.copy
     - navigation.sections
